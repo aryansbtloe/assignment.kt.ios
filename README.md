@@ -1,2 +1,2 @@
 # assignment.kt.ios
-![Demonstration](https://user-images.githubusercontent.com/925188/86855313-b6776100-c0d7-11ea-8cf5-256bd539d698.png)
+![Demonstration](https://user-images.githubusercontent.com/925188/86855838-cc395600-c0d8-11ea-9070-8ee74e57bf94.png)
