@@ -71,7 +71,7 @@ class HomeViewController: AksBaseViewController {
         }
         
         let rightBarButton1 = UIBarButtonItem(image: UIImage(named: "search"), style: .plain, target: self, action: #selector(HomeViewController.onClickOfBarButtonItems))
-        let rightBarButton2 = UIBarButtonItem(image: UIImage(named: "calender"), style: .plain, target: self, action: #selector(HomeViewController.onClickOfBarButtonItems))
+        let rightBarButton2 = UIBarButtonItem(image: UIImage(named: "calendar"), style: .plain, target: self, action: #selector(HomeViewController.onClickOfBarButtonItems))
         self.navigationItem.rightBarButtonItems = [rightBarButton1,rightBarButton2]
     }
 }
