@@ -79,7 +79,7 @@ extension HomePresenter : AKSPaginatorOutProtocol {
         dateFormatterRead.dateFormat = "yyyy-MM-dd'T'HH:mm:ssZ"
         
         let dateFormatterWrite = DateFormatter()
-        dateFormatterWrite.dateFormat = "yyyy/mm/dd\n@ h:m:s"
+        dateFormatterWrite.dateFormat = "yyyy/MM/dd\n@ h:m:s"
 
         if let viewModal = paginationController.results as? [Video] {
             let videosViewModals = viewModal.map { video -> VideoViewModal in
